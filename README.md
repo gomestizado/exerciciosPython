@@ -29,3 +29,15 @@ Ex013 - Reajuste Salarial
 Ex014 - Conversor de Temperaturas
 
 Ex015 - Aluguel de Carros
+
+Ex016 - Quebrando um número
+
+Ex017 - Catetos e Hipotenusa
+
+Ex018 - Seno, Cosseno e Tangente
+
+Ex019 - Sorteando um item na lista
+
+Ex020 - Sorteando uma ordem na lista
+
+Ex021 - Tocando um MP3
